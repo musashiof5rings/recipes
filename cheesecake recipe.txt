@@ -1,3 +1,4 @@
 cheesecake recipe
 
-make cheesecake
+make crust
+make rest of cake
