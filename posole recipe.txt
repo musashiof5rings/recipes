@@ -1,3 +1,4 @@
 posole recipe
 
-Make posole
+Add posole
+Add water and all the other stuff
