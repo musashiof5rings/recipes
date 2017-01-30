@@ -2,3 +2,4 @@ cheesecake recipe
 
 make crust
 make rest of cake
+make glaze
